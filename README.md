@@ -7,7 +7,7 @@ Este es un trabajo para identificar los datos relevantes y utilizar herramientas
   - Aula: 1
 
 El repositorio cuenta con con las siguientes elementos:
-  - fuentes: carpeta con los datasets.
+  - fuentes: carpeta con los datasets
   - jintriagop-dmorocho.rmd: archivo rmarkdown 
   - jintriagop-dmorocho.pdf: archivo pdf generado del archivo r markdown
   - jintriagop-dmorocho.html: archivo html generado del archivo r markdown
